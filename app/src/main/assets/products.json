@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Coca-Cola 1l",
+      "cost": 5
+    },
+    {
+      "id": 2,
+      "name": "Coca-Cola 0.5l",
+      "cost": 3
+    },
+    {
+      "id": 3,
+      "name": "Coca-Cola 0.3l",
+      "cost": 1
+    },
+    {
+      "id": 4,
+      "name": "Pepsi 0.3l",
+      "cost": 1
+    },
+    {
+      "id": 5,
+      "name": "Pepsi 0.5l",
+      "cost": 3
+    },
+    {
+      "id": 6,
+      "name": "Pepsi 1.5l",
+      "cost": 6
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+
+    <string name="nameInput">Vārds</string>
+    <string name="surnameInput">Uzvārds</string>
+    <string name="phoneInput">Tālruņa nr.</string>
+    <string name="emailInput">E-pasts</string>
+    <string name="passwordInput">Parole</string>
+    <string name="regBtn">Register</string>
+    <string name="logBtn">Login</string>
+</resources>
